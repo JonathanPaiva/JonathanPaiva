@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jonathan Paiva - @xJonnnx
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning C#, .Net Core
+- 🌱 I’m currently learning PHP
 - 📫 How to reach me > jonathan.paiva.m@hotmail.com
 
 <!---
